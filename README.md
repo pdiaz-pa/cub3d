@@ -1,6 +1,6 @@
 # cub3d
-IMPORTANT: This project is only tested in MacOS Mojave, and it uses the MiniLibX graphic library. Compile it and use 
-'./cub3d [map_name]' 
+IMPORTANT: This project is only tested in 42 Madrid clusters, MacOS Mojave , and it uses the MiniLibX graphic library. Compile it and use 
+'./cub3d [map_name]'
 to run it.
 
 
