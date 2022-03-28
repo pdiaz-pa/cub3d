@@ -1,0 +1,15 @@
+R      1920 1080 
+NO    ./textures/eagle.xpm
+SO             ./textures/red.xpm
+WE         ./textures/purplestone.xpm
+EA   ./textures/greystone.xpm
+S                   ./textures/linkpixel.xpm
+F 255,0,0
+C 0,255,0
+
+11111111
+1E000021
+100Z0001
+10002001
+10000021
+11111111
